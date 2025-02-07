@@ -132,12 +132,3 @@ select title from books where book_id not in
 
 select title, price from books where price >
 (select avg(price) from books);
-
-
-
-
-
-
-
-
-
