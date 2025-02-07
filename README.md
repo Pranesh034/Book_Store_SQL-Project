@@ -1,6 +1,6 @@
 # Book Store Data Analysis using SQL
 
-![Book Store Logo](https://github.com/YourUsername/YourRepo/blob/main/logo.png) 
+![Book Store Logo](https://raw.githubusercontent.com/Pranesh034/Book_Store_SQL-Project/main/book_store2-o%20(1).png)
 
 
 ## Overview
