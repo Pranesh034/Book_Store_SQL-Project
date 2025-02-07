@@ -1,1 +1,1 @@
-# Book_Store_SQL-Project
+# Book Store Data Analysis using SQL
