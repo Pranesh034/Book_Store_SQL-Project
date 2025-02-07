@@ -13,8 +13,12 @@ The project leverages SQL for data processing, querying, and reporting, helping 
 
 
 ## Objectives
-. Create and manage a relational database for a bookstore.
-. Load and organize book, customer, and order data.
-. Analyze book inventory, genres, and pricing trends.
-. Track customer orders, spending, and locations.
-. Identify top-selling books and high-revenue customers.
+Create and manage a relational database for a bookstore.
+
+Load and organize book, customer, and order data.
+
+Analyze book inventory, genres, and pricing trends.
+
+Track customer orders, spending, and locations.
+
+Identify top-selling books and high-revenue customers.
