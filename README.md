@@ -1,6 +1,7 @@
 # Book Store Data Analysis using SQL
 
 
+
 ## Overview
 This project involves designing and querying a structured relational database for a bookstore, focusing on analyzing book inventory, customer behavior, and sales trends. The dataset consists of three primary tables:
 
