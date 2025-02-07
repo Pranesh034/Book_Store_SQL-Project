@@ -13,7 +13,6 @@ Orders – Tracks book purchases with details like customer ID, book ID, order d
 The project leverages SQL for data processing, querying, and reporting, helping extract meaningful insights into book sales, customer preferences, and inventory management.
 
 
-
 ## Objectives
 Create and manage a relational database for a bookstore.
 
@@ -24,3 +23,13 @@ Analyze book inventory, genres, and pricing trends.
 Track customer orders, spending, and locations.
 
 Identify top-selling books and high-revenue customers.
+
+
+## Datasets
+
+Here are the datasets used in this project:
+
+- [Books Dataset](https://github.com/Pranesh034/Book_Store_SQL-Project/raw/main/Books.csv)
+- [Customers Dataset](https://github.com/Pranesh034/Book_Store_SQL-Project/raw/main/Customers.csv)
+- [Orders Dataset](https://github.com/Pranesh034/Book_Store_SQL-Project/raw/main/Orders.csv)
+
