@@ -88,7 +88,7 @@ COPY Orders(Order_ID, Customer_ID, Book_ID, Order_Date, Quantity, Total_Amount)
 FROM 'C:\Users\Harish\Downloads\Orders.csv' 
 CSV HEADER;
 
--- Retrieve all books
+
 SELECT * FROM Books;
 SELECT * FROM Customers;
 SELECT * FROM Orders;
